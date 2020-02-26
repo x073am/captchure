@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de77b674-90c3-45ed-9120-0a972d0993e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="b215c1dd-cea1-447c-a487-f1c72cd51347" />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1YMbJePsy4RQ7ZWQvAyXEboDFkn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" editBeforeRun="true" temporary="true" path="$PROJECT_DIR$/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.2" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de77b674-90c3-45ed-9120-0a972d0993e8" name="Default Changelist" comment="" />
+      <created>1582755339442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582755339442</updated>
+      <workItem from="1582755342527" duration="527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="295" y="71" width="824" height="684" key="#CLI_Interpreters" timestamp="1582755504857">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="295" y="71" width="824" height="684" key="#CLI_Interpreters/67.27.1299.741@67.27.1299.741" timestamp="1582755504857" />
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582755835925">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1582755835925" />
+    <state x="390" y="76" width="642" height="640" key="#index.php" timestamp="1582755868407">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="390" y="76" width="642" height="640" key="#index.php/67.27.1299.741@67.27.1299.741" timestamp="1582755868407" />
+    <state x="450" y="282" width="523" height="262" key="ComposerInitDialogKey" timestamp="1582755513602">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="450" y="282" width="523" height="262" key="ComposerInitDialogKey/67.27.1299.741@67.27.1299.741" timestamp="1582755513602" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1582755868582">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582755868582" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1582755868579">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582755868579" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1582755868575">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582755868575" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1582755868581">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582755868581" />
+  </component>
+</project>
