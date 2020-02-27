@@ -1,5 +1,17 @@
 {
     "name": "igor/captchure",
     "type": "library",
-    "require": {}
+    "require": {},
+    "authors":[
+    	{
+    		"name":"Igor Stepanov",
+    		"email":"x073am@gmail.com",
+    		"role":"developer"
+    	}
+    ],
+    "autoload":{
+    	"psr-4":{
+    		"Captchure\\":"src/"
+    	}
+    }
 }
